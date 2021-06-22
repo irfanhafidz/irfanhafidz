@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irfanhafidz
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
